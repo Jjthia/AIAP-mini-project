@@ -1,9 +1,9 @@
 # Title: Hand Gestures with Computer Vision
 <text>Welcome to our mini project! This repository provides a computer vision solution that recognizes and classifies predefined hand gestures using input data from imaging devices. Our application is designed to enhance presentations and interactions with your computer using intuitive hand gestures.</text>
 
-<div align="center"> 
+
 • [Installation](#installation) • [Usage](#usage) • [Future Applications](#future-applications) •
-</div>
+---
 
 ## Problem Statement
 
